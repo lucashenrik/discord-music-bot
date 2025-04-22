@@ -1,0 +1,3 @@
+discord.py>=2.0.0            # wrapper Discord API (voz e comandos) :contentReference[oaicite:5]{index=5}
+yt-dlp>=2025.03.31            # downloader de áudio/video YouTube e playlists :contentReference[oaicite:6]{index=6}
+python-dotenv>=0.21.0         # leitura de variáveis de ambiente de .env :contentReference[oaicite:7]{index=7}
