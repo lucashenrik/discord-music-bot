@@ -1,5 +1,5 @@
 ## Descrição  
-DJ Maluco Bastos é um bot de música para Discord que conecta em canais de voz e reproduz áudio diretamente de URLs do YouTube ou de playlists inteiras usando yt_dlp e FFmpeg citeturn0search1. Ele gerencia filas de reprodução e responde com embeds que indicam o que está tocando citeturn0search0.
+DJ Maluco Bastos é um bot de música para Discord que conecta em canais de voz e reproduz áudio diretamente de URLs do YouTube ou de playlists inteiras usando yt_dlp e FFmpeg citeturn0search1. Ele gerencia filas de reprodução e responde com embeds que indicam o que está tocando.
 
 ---
 
