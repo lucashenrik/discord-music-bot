@@ -40,8 +40,9 @@ DJ Maluco Bastos é um bot de música para Discord que conecta em canais de voz 
 
 4. **Crie uma aplicação de bot de discord e gere o token**  
   Como criar uma aplicação de bot de discord e pegar o token:
-  `https://www.youtube.com/watch?v=0M06NLY1DjA`
-
+  ```bash
+   https://www.youtube.com/watch?v=0M06NLY1DjA
+   ```  
 ---
 
 ## Uso  
